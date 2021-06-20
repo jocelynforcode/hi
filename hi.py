@@ -1,0 +1,5 @@
+name=input('請輸入名字')
+print('嗨',name)
+H=input('請輸入身高')
+W=input('請輸入體重')
+print(H,W)
